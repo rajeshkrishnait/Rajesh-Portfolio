@@ -14,9 +14,9 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am an IT student from Trichy. Grounded and Solution-oriented Computer Scientist open to constructive criticism and new
-domains.     </p>
+domains. living by the ideal that Hardworking and perseverence propels you further than luck</p>
                     <p> Adept at motivating self and others. Passionate about problem solving and
-educating the next generation.</p>
+educating the next generation. Team worker with the additional quality of leadership when the situation calls for it.</p>
                     </div>
                 </div>
                 </div>
@@ -40,7 +40,7 @@ educating the next generation.</p>
                     </span>
                     <div className="desc">
                         <h3>Web Development </h3>
-                        <p>I have experience building using JavaScript,React,HTML,CSS</p>
+                        <p>I have experience building websites using JavaScript,React,HTML,CSS with the backend servers working with databases set up on MySql</p>
                     </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ educating the next generation.</p>
                     </span>
                     <div className="desc">
                         <h3>Data Structures & Algorithms</h3>
-                        <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                        <p>Good at DSA theories because of my Semester papers, have solved hundreds of problems in LeetCode to get me through the applications.</p>
                     </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ educating the next generation.</p>
                     </span>
                     <div className="desc">
                         <h3>Machine Learning</h3>
-                        <p></p>
+                        <p>Invested a lot of time in reading and understanding ML algorithms. Have a look at my projects for a better understanding</p>
                     </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ educating the next generation.</p>
                     </span>
                     <div className="desc">
                         <h3>Critical Thinking</h3>
-                        <p> </p>
+                        <p>Stressful the situations, brighter the solutions that come out of my brain </p>
                     </div>
                     </div>
                 </div>

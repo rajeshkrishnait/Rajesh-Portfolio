@@ -288,19 +288,19 @@
 	$(function(){
 		fullHeight();
 		counter();
-		counterWayPoint();
+		 counterWayPoint();
 		contentWayPoint();
 		burgerMenu();
 
 		clickMenu();
 		navActive();
 		navigationSection();
-		//windowScroll();
+		// windowScroll();
 
 
 		mobileMenuOutsideClick();
 		sliderMain();
-		// stickyFunction();
+		stickyFunction();
 		owlCrouselFeatureSlide();
 	});
 

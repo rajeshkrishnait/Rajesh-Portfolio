@@ -251,9 +251,7 @@ figure {
         background-size: cover;
         background-position: bottom center;
         min-height: 400px;
-        position: relative; 
-        
-      }
+        position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
       z-index: 1000;
@@ -360,11 +358,11 @@ body.offcanvas {
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     top: 0;
-    -moz-transform: translateX(300px);
-    -webkit-transform: translateX(300px);
-    -ms-transform: translateX(300px);
-    -o-transform: translateX(300px);
-    transform: translateX(300px); }
+    -moz-transform: translateX(3px);
+    -webkit-transform: translateX(3px);
+    -ms-transform: translateX(3px);
+    -o-transform: translateX(3px);
+    transform: translateX(3px); }
 
 .colorlib-narrow-content {
   padding: 0 2.5em; }
@@ -405,9 +403,9 @@ body.offcanvas {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: relative;
-  background-Image: url('../images/img_bg.jpg')
- }
+  position: relative; 
+  background-image: url('../images/img_bg.jpg');
+}
 
 .colorlib-heading {
   font-size: 18px;

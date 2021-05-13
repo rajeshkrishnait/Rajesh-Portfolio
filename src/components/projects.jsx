@@ -17,13 +17,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage:'url("http://tejasghetia.com/wp-content/uploads/2016/01/6195941_orig.jpg")'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Book's Catalogue with Api and Recommendations using Machine Learning</a></h3>
-											<span>Website</span>
-											<p className="icon">
+											<h3><a href="https://github.com/rajeshkrishnait/Books-Catalogue-GoogleBooks-API">Book's Catalogue</a></h3>
+											<span>Book's Catalogue with Api and Recommendations using Machine Learning</span>
+											{/* <p className="icon">
 												<span><a href="#s"><i className="icon-share3" /></a></span>
 												<span><a href="#s"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#s"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -32,13 +32,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url("https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/603823eca4b46344229b30f8_portfolio_course.png")'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">My Portfolio</a></h3>
-											<span>Animation</span>
-											<p className="icon">
+											<h3><a href="https://github.com/rajeshkrishnait/Rajesh-Portfolio">My Portfolio</a></h3>
+											<span>This is the site you are currently on</span>
+											{/* <p className="icon">
 												<span><a href="#s"><i className="icon-share3" /></a></span>
 												<span><a href="#s"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#s"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>
@@ -47,13 +47,13 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url("https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg")'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Catering Services Integration System</a></h3>
-											<span>Illustration</span>
-											<p className="icon">
+											<h3><a href="https://github.com/rajeshkrishnait/Books-Catalogue-Recommendation">Catering Services Integration System</a></h3>
+											<span>Integrates catering services company near users.</span>
+											{/* <p className="icon">
 												<span><a href="#s"><i className="icon-share3" /></a></span>
 												<span><a href="#s"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#s"><i className="icon-heart" /> 49</a></span>
-											</p>
+											</p> */}
 										</div>
 									</div>
 								</div>

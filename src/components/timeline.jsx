@@ -43,8 +43,19 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2018</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Higher Education <span>2016-2018</span></h2>
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 93% merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Primary Education<span>2005-2016</span></h2>
+                        <p>I completed my primary and Secondary school education in Sri vageesha Vidhyashram, CBSE, Trichy-6 with a score of 94% . This time period thought me a lot of things, My English lies on the side of good when it comes to writing and speaking because of Vageesha </p> 
                       </div>
                     </div>
                   </article>
